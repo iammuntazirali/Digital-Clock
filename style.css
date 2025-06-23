@@ -24,20 +24,9 @@ body {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   animation: fadeIn 1s ease-in-out;
   margin-top: 20px;
+  margin-bottom: 100px;
 }
 
-nav {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-}
-
-nav a {
-  color: #fff;
-  text-decoration: none;
-  margin-right: 15px;
-  font-weight: 500;
-}
 
 h1 {
   font-size: 2rem;
